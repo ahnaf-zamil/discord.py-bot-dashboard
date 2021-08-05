@@ -1,0 +1,10 @@
+# Discord.py Web Dashboard
+
+Uses:
+    - React (TypeScript)
+    - Discord.py
+    - Sanic
+    - Hikari
+    - PostgreSQL
+
+Link to video: https://www.youtube.com/watch?v=56Zw8-eaNq8
