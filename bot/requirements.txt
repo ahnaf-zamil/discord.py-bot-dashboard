@@ -1,0 +1,5 @@
+discord.py==1.6.0
+asyncpg
+tortoise-orm
+python-dotenv
+aiohttp_cors
